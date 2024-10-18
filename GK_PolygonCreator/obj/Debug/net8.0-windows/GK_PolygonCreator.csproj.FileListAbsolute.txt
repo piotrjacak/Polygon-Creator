@@ -1,0 +1,16 @@
+C:\Users\piotr\source\repos\GK_PolygonCreator\GK_PolygonCreator\bin\Debug\net8.0-windows\GK_PolygonCreator.exe
+C:\Users\piotr\source\repos\GK_PolygonCreator\GK_PolygonCreator\bin\Debug\net8.0-windows\GK_PolygonCreator.deps.json
+C:\Users\piotr\source\repos\GK_PolygonCreator\GK_PolygonCreator\bin\Debug\net8.0-windows\GK_PolygonCreator.runtimeconfig.json
+C:\Users\piotr\source\repos\GK_PolygonCreator\GK_PolygonCreator\bin\Debug\net8.0-windows\GK_PolygonCreator.dll
+C:\Users\piotr\source\repos\GK_PolygonCreator\GK_PolygonCreator\bin\Debug\net8.0-windows\GK_PolygonCreator.pdb
+C:\Users\piotr\source\repos\GK_PolygonCreator\GK_PolygonCreator\obj\Debug\net8.0-windows\GK_PolygonCreator.Form1.resources
+C:\Users\piotr\source\repos\GK_PolygonCreator\GK_PolygonCreator\obj\Debug\net8.0-windows\GK_PolygonCreator.csproj.GenerateResource.cache
+C:\Users\piotr\source\repos\GK_PolygonCreator\GK_PolygonCreator\obj\Debug\net8.0-windows\GK_PolygonCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\source\repos\GK_PolygonCreator\GK_PolygonCreator\obj\Debug\net8.0-windows\GK_PolygonCreator.AssemblyInfoInputs.cache
+C:\Users\piotr\source\repos\GK_PolygonCreator\GK_PolygonCreator\obj\Debug\net8.0-windows\GK_PolygonCreator.AssemblyInfo.cs
+C:\Users\piotr\source\repos\GK_PolygonCreator\GK_PolygonCreator\obj\Debug\net8.0-windows\GK_PolygonCreator.csproj.CoreCompileInputs.cache
+C:\Users\piotr\source\repos\GK_PolygonCreator\GK_PolygonCreator\obj\Debug\net8.0-windows\GK_PolygonCreator.dll
+C:\Users\piotr\source\repos\GK_PolygonCreator\GK_PolygonCreator\obj\Debug\net8.0-windows\refint\GK_PolygonCreator.dll
+C:\Users\piotr\source\repos\GK_PolygonCreator\GK_PolygonCreator\obj\Debug\net8.0-windows\GK_PolygonCreator.pdb
+C:\Users\piotr\source\repos\GK_PolygonCreator\GK_PolygonCreator\obj\Debug\net8.0-windows\GK_PolygonCreator.genruntimeconfig.cache
+C:\Users\piotr\source\repos\GK_PolygonCreator\GK_PolygonCreator\obj\Debug\net8.0-windows\ref\GK_PolygonCreator.dll
